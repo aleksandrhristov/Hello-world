@@ -1,2 +1,5 @@
-# Hello-world
-Just another repository
+using System;
+
+class HelloWorld {
+ Console.WriteLine("Hello World");
+}
